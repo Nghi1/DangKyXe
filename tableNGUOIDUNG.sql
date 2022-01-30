@@ -1,0 +1,10 @@
+create table NGUOIDUNG
+(
+	TV_ID INT NOT NULL PRIMARY KEY IDENTITY,
+	TV_TENND NVARCHAR(30) not null,
+	TV_PHONE int not null,
+	TV_TAIKHOAN VARCHAR(20) not null,
+	TV_MATKHAU VARCHAR(20) not null,
+	TV_XACNHANMK VARCHAR(20) not null,
+	TV_MAQUYEN VARCHAR(20) not null
+)
