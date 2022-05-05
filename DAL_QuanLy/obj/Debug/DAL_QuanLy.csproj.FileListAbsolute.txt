@@ -29,8 +29,8 @@ D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\bin\Debug\DAL_QuanLy.d
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
-D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\obj\Debug\DAL_QuanLy.csprojAssemblyReference.cache
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache

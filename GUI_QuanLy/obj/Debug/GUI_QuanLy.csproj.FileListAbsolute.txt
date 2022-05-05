@@ -182,7 +182,6 @@ D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\bin\Debug\pt\Microsoft
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
-D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.csprojAssemblyReference.cache
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_DangKyND.resources
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_DangKyXe.resources
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_DangNhap.resources
@@ -198,3 +197,4 @@ D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.c
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe
 D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.pdb
+D:\hoctap\ThiCuoiKy_151901403_VuThanhNghi_De03\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
