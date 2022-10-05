@@ -1,5 +1,5 @@
 # DangKyXe
-<h1>Đăng ký xe- Vehicle registration</h1>
+<h1>Đăng ký xe</h1>
 <div style="display: flex">
 <img width="400" height="200" src="https://i.ibb.co/HdvsVsj/admin.png" alt="admin"/>
 <img width="400" height="200" src="https://i.ibb.co/PNGQS2X/home.png" alt="home"/>
